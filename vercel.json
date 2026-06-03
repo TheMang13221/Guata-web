@@ -1,6 +1,5 @@
 {
   "buildCommand": "expo export -p web",
   "outputDirectory": "dist",
-  "framework": "expo",
   "regions": ["iad1"]
 }
